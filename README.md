@@ -1,4 +1,4 @@
-# chimera-live
+ chimera-live
 
 This repository contains tooling to manage creation of Chimera images.
 They are mainly intended for handling of distro releases, but can be
